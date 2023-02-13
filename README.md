@@ -1,8 +1,6 @@
-# ds-movie-sds6
-
-## Em construção...
-
 # DS Vendas
+#### Em construção...
+
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Juliolimahen/ds-movie-sds6/blob/main/LICENCE) 
 
 # Sobre o projeto
