@@ -7,7 +7,7 @@
 
 https://juliohensdsmovie.netlify.app/
 
-O projeto consiste em um sistema de vendas com Dashboard
+O projeto consiste em um sistema de avaliação de filmes. 
 
 
 ## Layout web
